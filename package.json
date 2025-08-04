@@ -1,0 +1,19 @@
+{
+  "name": "luxury-wishlist",
+  "version": "1.0.0",
+  "description": "A premium birthday wishlist with luxury brand aesthetics",
+  "main": "wishlist.html",
+  "scripts": {
+    "start": "python3 -m http.server 3000",
+    "dev": "python3 -m http.server 8080"
+  },
+  "keywords": [
+    "luxury",
+    "wishlist",
+    "birthday",
+    "premium",
+    "responsive"
+  ],
+  "author": "oscnamo",
+  "license": "MIT"
+}
